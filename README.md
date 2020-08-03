@@ -13,7 +13,7 @@ Find me:
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/dgutierrezd1) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dgutierrezd/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/dgutierrezd/) [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://dgutierrezd.now.sh/) 
 
-#### 📹 Subscribe to [my Youtube Channel](https://www.youtube.com/DanielGutierrezD)!
+#### 🔴 Subscribe to [my Youtube Channel](https://www.youtube.com/DanielGutierrezD)!
 
 <a href='https://youtu.be/iAoe9B8QOB0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/iAoe9B8QOB0/mqdefault.jpg' alt='Como desarrollar la app HotDog or NotHotDog, de la serie Silicon Valley - Node.js' />
@@ -37,4 +37,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+📹
 -->
