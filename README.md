@@ -13,16 +13,6 @@ Find me:
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/dgutierrezd1) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dgutierrezd/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/dgutierrezd/) [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://dgutierrezd.now.sh/) 
 
----
-My Github Stats: 
-
-<br>
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=dgutierrezd&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dgutierrezd&hide=css,html&theme=tokyonight">
-</p>
-
 <!--
 **dgutierrezd/dgutierrezd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
