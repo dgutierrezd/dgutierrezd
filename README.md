@@ -1,6 +1,6 @@
 ### Hi 👋 I am Daniel
 
-I am a fullstack developer who is passionate about the web and mobile development. I also have a Youtube Channel where I speak and teach some things about techs like Node.js, React, Java, and others. 
+I am a fullstack developer who is passionate about the web and mobile development. I also have a Youtube Channel where I speak and teach some things about techs like Node.js, React, Ruby, and others. 
 
 - 👨🏽‍💻 I’m learning all time!
 - 🤔 I’m looking for help with all relationated with Javascript techs.
